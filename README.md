@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Md. Shourov banner"/>
+  <img src="https://raw.githubusercontent.com/Shourov735/Shourov735/main/assets/banner.svg" width="100%" alt="Md. Shourov banner"/>
 </div>
 
 <div align="center">
@@ -152,7 +152,7 @@ Contributed to this widely used Java QA visual testing library as part of an aca
 ### ☁️ Cloud, DevOps & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,git,github,githubactions,linux,vscode,maven&theme=dark" alt="Cloud and DevOps" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,vercel,docker,git,github,githubactions,linux,vscode,postman,maven&theme=dark" alt="Cloud and DevOps" />
   </a>
 </p>
 
@@ -169,10 +169,10 @@ Contributed to this widely used Java QA visual testing library as part of an aca
 
 <div align="center">
   <a href="https://github.com/Shourov735">
-    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Shourov735&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Md. Shourov GitHub Stats" />
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Shourov735&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" alt="Md. Shourov GitHub Stats" />
   </a>
   <a href="https://github.com/Shourov735">
-    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shourov735&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Md. Shourov Top Languages" />
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shourov735&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=8" alt="Md. Shourov Top Languages" />
   </a>
 </div>
 
@@ -180,7 +180,7 @@ Contributed to this widely used Java QA visual testing library as part of an aca
 
 <div align="center">
   <a href="https://github.com/Shourov735">
-    <img src="https://streak-stats.demolab.com?user=Shourov735&theme=github_dark&hide_border=true" alt="Md. Shourov GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Shourov735&theme=github_dark&hide_border=true&border_radius=8" alt="Md. Shourov GitHub Streak" />
   </a>
 </div>
 
@@ -189,6 +189,14 @@ Contributed to this widely used Java QA visual testing library as part of an aca
 <div align="center">
   <a href="https://github.com/Shourov735">
     <img width="100%" src="https://github-activity-graph.vercel.app/graph?username=Shourov735&theme=github-dark&hide_border=true&area=true" alt="Md. Shourov Activity Graph" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Shourov735">
+    <img width="100%" src="https://ghchart.rshah.org/6366f1/Shourov735" alt="Md. Shourov GitHub Contribution Chart" />
   </a>
 </div>
 

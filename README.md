@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shourov-89125a337)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-lemon-eight-22.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://shourov735.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdshourov735@gmail.com)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Shourov735)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Shourov735)
@@ -26,7 +26,7 @@ I am a Software Engineering undergraduate at the **Institute of Information Tech
 - 🎓 **Education:** B.Sc. in Software Engineering, Institute of Information Technology (IIT), University of Dhaka
 - 📍 **Location:** Gazipur & Dhaka, Bangladesh
 - 💼 **Leadership:** **IT Secretary** at *Nabodigonto Social Welfare Organization* (promoted after designing and launching their digital community and financial management platform)
-- 🌐 **Portfolio & Contact:** [portfolio-lemon-eight-22.vercel.app](https://portfolio-lemon-eight-22.vercel.app/) • [mdshourov735@gmail.com](mailto:mdshourov735@gmail.com)
+- 🌐 **Portfolio & Contact:** [shourov735.vercel.app](https://shourov735.vercel.app/) • [mdshourov735@gmail.com](mailto:mdshourov735@gmail.com)
 - 🚀 **Focus Areas:** Enterprise Web Apps (Next.js, Cloudflare Workers, Neon PostgreSQL), Mobile Solutions (React Native, Expo), System Architecture (Design Patterns, SOLID), Open Source Contributions
 
 ---
@@ -207,6 +207,6 @@ Contributed to this widely used Java QA visual testing library as part of an aca
 > *"Learning by building, improving one project at a time."*
 
 **Let's build something remarkable together!**  
-[Portfolio](https://portfolio-lemon-eight-22.vercel.app/) • [LinkedIn](https://linkedin.com/in/md-shourov-89125a337) • [Email](mailto:mdshourov735@gmail.com)
+[Portfolio](https://shourov735.vercel.app/) • [LinkedIn](https://linkedin.com/in/md-shourov-89125a337) • [Email](mailto:mdshourov735@gmail.com)
 
 </div>

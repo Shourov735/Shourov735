@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Software+Engineering+Student+at+IIT%2C+University+of+Dhaka;Full-Stack+Web+%26+Mobile+Application+Developer;IT+Secretary+%40+Nabodigonto+Welfare+Organization;Open+Source+Contributor+%26+Design+Pattern+Practitioner)](https://github.com/Shourov735)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shourov-89125a337)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shourov-613934358)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://mdshourov.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdshourov735@gmail.com)
@@ -207,6 +207,6 @@ Contributed to this widely used Java QA visual testing library as part of an aca
 > *"Learning by building, improving one project at a time."*
 
 **Let's build something remarkable together!**  
-[Portfolio](https://mdshourov.vercel.app/) • [LinkedIn](https://linkedin.com/in/md-shourov-89125a337) • [Email](mailto:mdshourov735@gmail.com)
+[Portfolio](https://mdshourov.vercel.app/) • [LinkedIn](https://linkedin.com/in/md-shourov-613934358) • [Email](mailto:mdshourov735@gmail.com)
 
 </div>

@@ -12,7 +12,9 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdshourov735@gmail.com)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Shourov735)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Shourov735)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@mdshourovgaming)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@MD._SHOUROV_)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shourov735)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shourov735/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Shourov735)
 
 </div>
@@ -23,10 +25,11 @@
 
 I am a Software Engineering undergraduate at the **Institute of Information Technology (IIT), University of Dhaka**. I specialize in architecting full-stack web applications, offline-first mobile apps, and robust desktop systems with strong emphasis on software architecture, Gang of Four (GoF) design patterns, and clean code principles.
 
-- 🎓 **Education:** B.Sc. in Software Engineering, Institute of Information Technology (IIT), University of Dhaka
+- 🎓 **Education:** B.Sc. in Software Engineering, Institute of Information Technology (IIT), University of Dhaka (2024 – Present)
 - 📍 **Location:** Gazipur & Dhaka, Bangladesh
 - 💼 **Leadership:** **IT Secretary** at *Nabodigonto Social Welfare Organization* (promoted after designing and launching their digital community and financial management platform)
 - 🌐 **Portfolio & Contact:** [mdshourov.vercel.app](https://mdshourov.vercel.app/) • [mdshourov735@gmail.com](mailto:mdshourov735@gmail.com)
+- 🏆 **Problem Solving:** **150+ problems solved** across Codeforces & LeetCode (focusing on graph theory, number theory, and dynamic programming)
 - 🚀 **Focus Areas:** Enterprise Web Apps (Next.js, Cloudflare Workers, Neon PostgreSQL), Mobile Solutions (React Native, Expo), System Architecture (Design Patterns, SOLID), Open Source Contributions
 
 ---
@@ -49,9 +52,9 @@ A comprehensive digital platform engineered for a grassroots Bangladeshi social 
 
 ---
 
-### 📚 2. [InsideJibon](https://insidejibon.insidejibon.workers.dev/) — Next-Gen EdTech Web Platform
+### 📚 2. [InsideJibon](https://insidejibon.shourov.workers.dev/) — Next-Gen EdTech Web Platform
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-insidejibon.insidejibon.workers.dev-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://insidejibon.insidejibon.workers.dev/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-insidejibon.shourov.workers.dev-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://insidejibon.shourov.workers.dev/)
 [![Repository](https://img.shields.io/badge/Repo-InsideJibon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735/InsideJibon)
 [![Stack](https://img.shields.io/badge/Stack-Next.js_16_%7C_Drizzle_ORM_%7C_Neon_Postgres_%7C_R2-black?style=flat-square)](#)
 
@@ -62,7 +65,21 @@ A scalable educational web platform built for friend Tanvir Hasan Jibon to power
 
 ---
 
-### 🎯 3. [Quiz Management & Examination System](https://github.com/Shourov735/Quiz-Management-and-Examination-System) — Mini-SPL / Design Patterns Project
+### 🛍️ 3. [ARVAANA](https://arvaanabd.vercel.app/) — Luxury Fragrance E-Commerce Platform
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-arvaanabd.vercel.app-051811?style=flat-square&logo=vercel&logoColor=white)](https://arvaanabd.vercel.app/)
+[![WhatsApp Concierge](https://img.shields.io/badge/Order-WhatsApp_Concierge-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801609902528)
+[![Stack](https://img.shields.io/badge/Stack-Next.js_16_%7C_React_19_%7C_Tailwind_v4_%7C_DaisyUI_%7C_Vercel-black?style=flat-square)](#)
+
+A high-performance modern luxury fragrance storefront engineered for artisanal alcohol-free attars and inspired perfumes in Bangladesh:
+- **WhatsApp Concierge Checkout:** Zero-friction conversational ordering pipeline converting high-intent local shoppers across all 64 districts in Bangladesh with automated BDT price, volume tier, delivery zone, and delivery fee URL encoding.
+- **Dynamic Multi-Size Variant Engine:** In-card volume switcher (6ML, 15ML, 30ML, 50ML) with real-time client-side price computation and discount badges without layout shifts (zero CLS).
+- **Zero-FOUC Dual Themes:** Custom luxury dark emerald (`#051811`) and minimalist pearl white theme system with zero flash of unstyled content on initial page load.
+- **Full JSON-LD Schema.org Graph:** Complete `@graph` semantic structure defining verified brand entity, creator attribution, and e-commerce metadata for search engine indexing.
+
+---
+
+### 🎯 4. [Quiz Management & Examination System](https://github.com/Shourov735/Quiz-Management-and-Examination-System) — Mini-SPL / Design Patterns Project
 
 [![Repository](https://img.shields.io/badge/Repo-Quiz--Management--System-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735/Quiz-Management-and-Examination-System)
 [![Academic Project](https://img.shields.io/badge/Academic_Project-Mini--SPL_%2F_Design_Patterns-blue?style=flat-square)](#)
@@ -75,7 +92,7 @@ A desktop assessment system engineered in Java and JavaFX for the **Design Patte
 
 ---
 
-### 📖 4. [Quran Reading Tracker](https://github.com/Shourov735/QuranReadingTracker) — Offline-First Mobile App
+### 📖 5. [Quran Reading Tracker](https://github.com/Shourov735/QuranReadingTracker) — Offline-First Mobile App
 
 [![Repository](https://img.shields.io/badge/Repo-QuranReadingTracker-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735/QuranReadingTracker)
 [![Platform](https://img.shields.io/badge/Platform-Android_%2F_Offline--First-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
@@ -88,25 +105,25 @@ An offline-first Android application designed to cultivate and track daily Quran
 
 ---
 
-### 🕌 5. [Mosque Library Management](https://mosque-library-management.vercel.app/) — Modern Web App
+### 🕌 6. [Mosque Library Management](https://mosquelibrary.vercel.app/) — Modern Web App
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Mosque_Library-0070f3?style=flat-square&logo=vercel&logoColor=white)](https://mosque-library-management.vercel.app/)
-[![Stack](https://img.shields.io/badge/Stack-Next.js_%7C_Prisma_%7C_PostgreSQL_%7C_Clerk-black?style=flat-square)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Mosque_Library-0070f3?style=flat-square&logo=vercel&logoColor=white)](https://mosquelibrary.vercel.app/)
+[![Stack](https://img.shields.io/badge/Stack-Next.js_%7C_TypeScript_%7C_Prisma_%7C_PostgreSQL-black?style=flat-square)](#)
 
 A specialized library management system tailored for community mosques:
-- Facilitates cataloging of Islamic literature, member borrowings, loan return tracking, and inventory auditing.
-- Powered by Next.js, Prisma ORM, PostgreSQL, and Clerk authentication.
+- **Islamic Literature Catalog:** Facilitates cataloging of Islamic literature (Quran, Hadith, Fiqh, Islamic History), member borrowings, loan return tracking, and inventory auditing.
+- **Lending & Committee Desk:** Member borrowing lifecycle with due dates, loan renewals, overdue alerts, and bilingual (EN/BN) interface support.
 
 ---
 
-### 🕹️ 6. [TetriC](https://github.com/Shourov735/TetriC) — Modular Multiplayer C Game
+### 🕹️ 7. [TetriC](https://github.com/Shourov735/TetriC) — Modular Multiplayer C Game
 
 [![Repository](https://img.shields.io/badge/Repo-TetriC-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735/TetriC)
 [![Type](https://img.shields.io/badge/Type-Socket_Programming_%7C_C-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
 
-- Modular, console-based Tetris game built in C for a university Software Engineering project.
-- Features single-player, local 2-player, and socket-based network multiplayer.
-- Implements collision detection, matrix rotation algorithms, scoring systems, level progression, and persistent high-score files.
+A modular, console-based Tetris game built in C for a university Software Engineering project:
+- **Multiplayer Architecture:** Features single-player, local 2-player, and POSIX socket-based network multiplayer over TCP.
+- **Game Engine & Non-Blocking I/O:** Implements matrix rotation algorithms, collision detection, `select()`-based non-blocking keyboard input, scoring systems, level progression, and persistent high-score leaderboards.
 
 ---
 
@@ -126,6 +143,47 @@ Contributed to this widely used Java QA visual testing library as part of an aca
 
 ---
 
+## 🧠 Competitive Programming & Algorithmic Practice
+
+### 🏆 [Codeforces Solutions](https://github.com/Shourov735/Codeforces) (150+ Problems Solved)
+[![Repository](https://img.shields.io/badge/Repo-Codeforces-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735/Codeforces)
+[![Profile](https://img.shields.io/badge/Profile-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shourov735)
+[![Stack](https://img.shields.io/badge/Stack-C++_%7C_C_%7C_Algorithms_%7C_Data_Structures-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
+
+A structured archive of **150+ competitive programming contest solutions** solved under strict execution time and memory limits:
+- **Core Topics:** Graph theory (BFS, DFS, Dijkstra), number theory (sieve precomputation, modular arithmetic), greedy heuristics, and dynamic programming.
+- **Asymptotic Optimization:** Time and space complexity optimizations, fast I/O stream decoupling, and edge-case handling for large test suites within tight time limits (1.0–2.0s).
+
+---
+
+### 🧩 [LeetCode Solutions](https://github.com/Shourov735/LeetCode) (Data Structures & Algorithms)
+[![Repository](https://img.shields.io/badge/Repo-LeetCode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735/LeetCode)
+[![Profile](https://img.shields.io/badge/Profile-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shourov735/)
+[![Stack](https://img.shields.io/badge/Stack-C++_%7C_DSA_%7C_Problem_Solving-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
+
+Clean, modular implementations for technical interview problems focusing on reusable patterns and time/space complexity trade-offs:
+- **Pattern Coverage:** Two pointers, sliding window, binary search, tree traversals, graphs, and bottom-up dynamic programming with space-optimized state rolling.
+- **Code Quality:** Authored with clean variable naming, explicit recurrence relation documentation, and edge-case validation.
+
+---
+
+## 📂 All Projects Directory
+
+| Project | Domain | Tech Stack | Key Highlights | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nabodigonto** | Web Platform | Next.js 16, Cloudflare Workers, Prisma, Neon Postgres, Clerk | Community & financial audit platform with 3D member ID cards and double-signed treasury ledger. | [Live Demo](https://nabodigonto.conversora-tech.workers.dev/) |
+| **InsideJibon** | Web / EdTech | Next.js 16, Drizzle ORM, Neon Postgres, Cloudflare R2 | Scalable bilingual EdTech management platform with interactive exams and cloud learning materials. | [Live Demo](https://insidejibon.shourov.workers.dev/) · [GitHub](https://github.com/Shourov735/InsideJibon) |
+| **ARVAANA** | Web / E-Commerce | Next.js 16, React 19, TypeScript, Tailwind CSS v4, DaisyUI | Luxury fragrance e-commerce with zero-FOUC dual themes, multi-tier bottle pricing, and WhatsApp checkout. | [Live Demo](https://arvaanabd.vercel.app/) · [WhatsApp](https://wa.me/8801609902528) |
+| **Quiz Management System** | Desktop / Systems | Java 17, JavaFX 21, SQLite, GoF Design Patterns | Desktop examination software developed for IIT DU Mini-SPL implementing 5 GoF patterns and SQLite. | [GitHub](https://github.com/Shourov735/Quiz-Management-and-Examination-System) |
+| **Quran Reading Tracker** | Mobile / Android | React Native, Expo, TypeScript, AsyncStorage | Offline-first Android mobile app with dual independent pipelines for Arabic recitation and Bangla translation. | [GitHub](https://github.com/Shourov735/QuranReadingTracker) |
+| **Mosque Library Management** | Web App | Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL | Full-stack mosque library system with Islamic catalog, borrowing tracking, and committee roles. | [Live Demo](https://mosquelibrary.vercel.app/) |
+| **image-comparison** | Open Source | Java, Algorithms, JUnit 5, Maven Central | Contributed algorithmic refactor (PR #255) to Maven Central library, replacing recursive grouping with iterative `ArrayDeque`. | [GitHub](https://github.com/Shourov735/image-comparison) · [PR #255](https://github.com/romankh3/image-comparison/pull/255) |
+| **TetriC** | Systems / Game | C, Socket Programming, POSIX TCP, Non-blocking I/O | Console-based Tetris in C featuring matrix rotation, local 2-player, and TCP network multiplayer gameplay. | [GitHub](https://github.com/Shourov735/TetriC) |
+| **Codeforces Solutions** | Algorithms / CP | C++, C, Graph Theory, Number Theory | Archive of 150+ competitive programming contest solutions with time and space complexity optimizations. | [GitHub](https://github.com/Shourov735/Codeforces) · [Profile](https://codeforces.com/profile/Shourov735) |
+| **LeetCode Solutions** | Algorithms / DSA | C++, Data Structures, Dynamic Programming | Clean, idiomatic solutions focusing on reusable DSA patterns, trees, graphs, and dynamic programming. | [GitHub](https://github.com/Shourov735/LeetCode) · [Profile](https://leetcode.com/u/Shourov735/) |
+
+---
+
 ## 🛠️ Tools I Reach For
 
 ### 💻 Programming Languages
@@ -138,7 +196,7 @@ Contributed to this widely used Java QA visual testing library as part of an aca
 ### 🎨 Frontend & Mobile Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark" alt="Frontend and Mobile" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend and Mobile" />
   </a>
 </p>
 
@@ -195,7 +253,7 @@ Contributed to this widely used Java QA visual testing library as part of an aca
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Shourov735">
+  <a href="https://ghchart.rshah.org/6366f1/Shourov735" alt="Md. Shourov GitHub Contribution Chart">
     <img width="100%" src="https://ghchart.rshah.org/6366f1/Shourov735" alt="Md. Shourov GitHub Contribution Chart" />
   </a>
 </div>
@@ -207,6 +265,6 @@ Contributed to this widely used Java QA visual testing library as part of an aca
 > *"Learning by building, improving one project at a time."*
 
 **Let's build something remarkable together!**  
-[Portfolio](https://mdshourov.vercel.app/) • [LinkedIn](https://linkedin.com/in/md-shourov-613934358) • [Email](mailto:mdshourov735@gmail.com)
+[Portfolio](https://mdshourov.vercel.app/) • [LinkedIn](https://linkedin.com/in/md-shourov-613934358) • [Email](mailto:mdshourov735@gmail.com) • [YouTube](https://www.youtube.com/@MD._SHOUROV_)
 
 </div>

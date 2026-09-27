@@ -56,12 +56,13 @@ A comprehensive digital platform engineered for a grassroots Bangladeshi social 
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-insidejibon.shourov.workers.dev-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://insidejibon.shourov.workers.dev/)
 [![Repository](https://img.shields.io/badge/Repo-InsideJibon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735/InsideJibon)
-[![Stack](https://img.shields.io/badge/Stack-Next.js_16_%7C_Drizzle_ORM_%7C_Neon_Postgres_%7C_R2-black?style=flat-square)](#)
+[![Stack](https://img.shields.io/badge/Stack-Next.js_16_%7C_Cloudflare_Workers_%7C_Durable_Objects_%7C_Workers_AI_%7C_Neon-black?style=flat-square)](#)
 
-A scalable educational web platform built for friend Tanvir Hasan Jibon to power modern course management and digital learning:
-- **Full Learning Lifecycle:** Comprehensive domain modules covering course catalogs, student enrollments, exam creation, assignments, and automated grading.
-- **Bilingual Experience:** Built-in internationalization (en/bn) parity validation across course materials and administrative portals.
-- **Edge Performance & Cloud Storage:** Built with Next.js 16, React 19, Tailwind CSS v4, Drizzle ORM on Neon Serverless PostgreSQL, Cloudflare R2 object storage for lecture resources, deployed globally on Cloudflare Workers.
+A high-performance educational platform re-engineered on Cloudflare Workers edge operating under a $0/month subscription invariant:
+- **Real-Time Live Classrooms:** Cloudflare Durable Objects WebSocket architecture managing student presence, moderated chat, hand-raising, and server-side attendance.
+- **In-House AI Tutor & RAG:** In-house AI tutor running on Cloudflare Workers AI + Vectorize over YouTube auto-captions with exact-second timestamp citations.
+- **Habit-Forming Gamification:** Duolingo-grade engagement engine with an immutable XP ledger, daily study streaks with freeze mechanics, and weekly league cohorts.
+- **Edge Performance & Video Architecture:** Next.js 16, React 19, Drizzle ORM (neon-http), Cloudflare Cache API tag invalidation, and zero-egress YouTube video delivery.
 
 ---
 
@@ -172,7 +173,7 @@ Clean, modular implementations for technical interview problems focusing on reus
 | Project | Domain | Tech Stack | Key Highlights | Links |
 | :--- | :--- | :--- | :--- | :--- |
 | **Nabodigonto** | Web Platform | Next.js 16, Cloudflare Workers, Prisma, Neon Postgres, Clerk | Community & financial audit platform with 3D member ID cards and double-signed treasury ledger. | [Live Demo](https://nabodigonto.conversora-tech.workers.dev/) |
-| **InsideJibon** | Web / EdTech | Next.js 16, Drizzle ORM, Neon Postgres, Cloudflare R2 | Scalable bilingual EdTech management platform with interactive exams and cloud learning materials. | [Live Demo](https://insidejibon.shourov.workers.dev/) · [GitHub](https://github.com/Shourov735/InsideJibon) |
+| **InsideJibon** | Web / EdTech | Next.js 16, Cloudflare Workers, Durable Objects, Workers AI, Neon | High-performance bilingual EdTech platform with Durable Objects live classrooms, Workers AI RAG tutoring, and study streaks. | [Live Demo](https://insidejibon.shourov.workers.dev/) · [GitHub](https://github.com/Shourov735/InsideJibon) |
 | **ARVAANA** | Web / E-Commerce | Next.js 16, React 19, TypeScript, Tailwind CSS v4, DaisyUI | Luxury fragrance e-commerce with zero-FOUC dual themes, multi-tier bottle pricing, and WhatsApp checkout. | [Live Demo](https://arvaanabd.vercel.app/) · [WhatsApp](https://wa.me/8801609902528) |
 | **Quiz Management System** | Desktop / Systems | Java 17, JavaFX 21, SQLite, GoF Design Patterns | Desktop examination software developed for IIT DU Mini-SPL implementing 5 GoF patterns and SQLite. | [GitHub](https://github.com/Shourov735/Quiz-Management-and-Examination-System) |
 | **Quran Reading Tracker** | Mobile / Android | React Native, Expo, TypeScript, AsyncStorage | Offline-first Android mobile app with dual independent pipelines for Arabic recitation and Bangla translation. | [GitHub](https://github.com/Shourov735/QuranReadingTracker) |

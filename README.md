@@ -66,7 +66,21 @@ A high-performance educational platform re-engineered on Cloudflare Workers edge
 
 ---
 
-### 🛍️ 3. [ARVAANA](https://arvaanabd.vercel.app/) — Luxury Fragrance E-Commerce Platform
+### 🎬 3. [Remocomp](https://remocomp.shourov.workers.dev/) — Curated Remotion Component Registry for Humans & AI Agents
+
+[![Live Registry](https://img.shields.io/badge/Live_Registry-remocomp.shourov.workers.dev-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://remocomp.shourov.workers.dev)
+[![npm](https://img.shields.io/badge/npm-remocomp_0.1.0-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/remocomp)
+[![Stack](https://img.shields.io/badge/Stack-Remotion_4_%7C_Cloudflare_Workers_%7C_D1_%2B_R2_%7C_MCP-black?style=flat-square)](#)
+
+An open-source, curated registry of frame-accurate Remotion video components that humans and AI agents install shadcn-style by copying the source directly into their own repository:
+- **Source Ownership, Not Package Dependency:** Components land in the consuming repository with `remotion` as the only dependency, eliminating version drift and leaving every spring constant editable rather than sealed inside a black-box npm package.
+- **Three-Tier Token-Budgeted Agent API:** A five-result search costs roughly 160–200 tokens through the CLI while a single component's prop schema costs about 600 — so schemas sit behind a second request and only the chosen component's source is ever fetched.
+- **One Quality Gate in Three Runtimes:** A 14-rule AST checker (13 errors, 1 warning) runs in the browser as you type, on the Worker at submission, and across the whole catalogue in CI, parsed with `acorn` (61 KB gzipped) instead of the 1 MB TypeScript compiler API.
+- **Three Consumption Paths & a Scene Contract:** An npm CLI, a stdio MCP server, and plain REST over one registry, plus a versioned JSON contract for describing a whole video as validated data instead of generating bespoke TSX for every beat.
+
+---
+
+### 🛍️ 4. [ARVAANA](https://arvaanabd.vercel.app/) — Luxury Fragrance E-Commerce Platform
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-arvaanabd.vercel.app-051811?style=flat-square&logo=vercel&logoColor=white)](https://arvaanabd.vercel.app/)
 [![WhatsApp Concierge](https://img.shields.io/badge/Order-WhatsApp_Concierge-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801609902528)
@@ -80,7 +94,7 @@ A high-performance modern luxury fragrance storefront engineered for artisanal a
 
 ---
 
-### 🎯 4. [Quiz Management & Examination System](https://github.com/Shourov735/Quiz-Management-and-Examination-System) — Mini-SPL / Design Patterns Project
+### 🎯 5. [Quiz Management & Examination System](https://github.com/Shourov735/Quiz-Management-and-Examination-System) — Mini-SPL / Design Patterns Project
 
 [![Repository](https://img.shields.io/badge/Repo-Quiz--Management--System-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735/Quiz-Management-and-Examination-System)
 [![Academic Project](https://img.shields.io/badge/Academic_Project-Mini--SPL_%2F_Design_Patterns-blue?style=flat-square)](#)
@@ -93,7 +107,7 @@ A desktop assessment system engineered in Java and JavaFX for the **Design Patte
 
 ---
 
-### 📖 5. [Quran Reading Tracker](https://github.com/Shourov735/QuranReadingTracker) — Offline-First Mobile App
+### 📖 6. [Quran Reading Tracker](https://github.com/Shourov735/QuranReadingTracker) — Offline-First Mobile App
 
 [![Repository](https://img.shields.io/badge/Repo-QuranReadingTracker-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735/QuranReadingTracker)
 [![Platform](https://img.shields.io/badge/Platform-Android_%2F_Offline--First-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
@@ -106,7 +120,7 @@ An offline-first Android application designed to cultivate and track daily Quran
 
 ---
 
-### 🕌 6. [Mosque Library Management](https://mosquelibrary.vercel.app/) — Modern Web App
+### 🕌 7. [Mosque Library Management](https://mosquelibrary.vercel.app/) — Modern Web App
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Mosque_Library-0070f3?style=flat-square&logo=vercel&logoColor=white)](https://mosquelibrary.vercel.app/)
 [![Stack](https://img.shields.io/badge/Stack-Next.js_%7C_TypeScript_%7C_Prisma_%7C_PostgreSQL-black?style=flat-square)](#)
@@ -117,7 +131,7 @@ A specialized library management system tailored for community mosques:
 
 ---
 
-### 🕹️ 7. [TetriC](https://github.com/Shourov735/TetriC) — Modular Multiplayer C Game
+### 🕹️ 8. [TetriC](https://github.com/Shourov735/TetriC) — Modular Multiplayer C Game
 
 [![Repository](https://img.shields.io/badge/Repo-TetriC-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shourov735/TetriC)
 [![Type](https://img.shields.io/badge/Type-Socket_Programming_%7C_C-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
@@ -174,6 +188,7 @@ Clean, modular implementations for technical interview problems focusing on reus
 | :--- | :--- | :--- | :--- | :--- |
 | **Nabodigonto** | Web Platform | Next.js 16, Cloudflare Workers, Prisma, Neon Postgres, Clerk | Community & financial audit platform with 3D member ID cards and double-signed treasury ledger. | [Live Demo](https://nabodigonto.conversora-tech.workers.dev/) |
 | **InsideJibon** | Web / EdTech | Next.js 16, Cloudflare Workers, Durable Objects, Workers AI, Neon | High-performance bilingual EdTech platform with Durable Objects live classrooms, Workers AI RAG tutoring, and study streaks. | [Live Demo](https://insidejibon.shourov.workers.dev/) · [GitHub](https://github.com/Shourov735/InsideJibon) |
+| **Remocomp** | Open Source / Dev Tooling | Remotion 4, React 19, TypeScript, Cloudflare Workers, D1 & R2, MCP | Curated frame-accurate Remotion component registry with a token-budgeted agent API, stdio MCP server, npm CLI, and a 14-rule AST quality gate shared across browser, edge, and CI. | [Live Registry](https://remocomp.shourov.workers.dev) · [npm](https://www.npmjs.com/package/remocomp) |
 | **ARVAANA** | Web / E-Commerce | Next.js 16, React 19, TypeScript, Tailwind CSS v4, DaisyUI | Luxury fragrance e-commerce with zero-FOUC dual themes, multi-tier bottle pricing, and WhatsApp checkout. | [Live Demo](https://arvaanabd.vercel.app/) · [WhatsApp](https://wa.me/8801609902528) |
 | **Quiz Management System** | Desktop / Systems | Java 17, JavaFX 21, SQLite, GoF Design Patterns | Desktop examination software developed for IIT DU Mini-SPL implementing 5 GoF patterns and SQLite. | [GitHub](https://github.com/Shourov735/Quiz-Management-and-Examination-System) |
 | **Quran Reading Tracker** | Mobile / Android | React Native, Expo, TypeScript, AsyncStorage | Offline-first Android mobile app with dual independent pipelines for Arabic recitation and Bangla translation. | [GitHub](https://github.com/Shourov735/QuranReadingTracker) |

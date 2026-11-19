@@ -59,6 +59,7 @@ A comprehensive digital platform engineered for a grassroots Bangladeshi social 
 [![Stack](https://img.shields.io/badge/Stack-Next.js_16_%7C_Cloudflare_Workers_%7C_Durable_Objects_%7C_Workers_AI_%7C_Neon-black?style=flat-square)](#)
 
 A high-performance educational platform re-engineered on Cloudflare Workers edge operating under a $0/month subscription invariant:
+- **Academic Modernism Landing Experience:** Warm ivory aesthetic with Jatiyo Sriti Soudho vector backdrop, Playfair Display + Bengali typography, interactive workspace preview, and NCTB curriculum pathways.
 - **Real-Time Live Classrooms:** Cloudflare Durable Objects WebSocket architecture managing student presence, moderated chat, hand-raising, and server-side attendance.
 - **In-House AI Tutor & RAG:** In-house AI tutor running on Cloudflare Workers AI + Vectorize over YouTube auto-captions with exact-second timestamp citations.
 - **Habit-Forming Gamification:** Duolingo-grade engagement engine with an immutable XP ledger, daily study streaks with freeze mechanics, and weekly league cohorts.
